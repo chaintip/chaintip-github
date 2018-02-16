@@ -1,3 +1,5 @@
+bchtrue
+***
 Nice, amazing idea with github tipping bot. 
 
 About bountie, I'm a little bit confused with thisL 
@@ -6,5 +8,4 @@ About bountie, I'm a little bit confused with thisL
 I will fill both. 
 
 BTW, add the repo for the chaintip site with source code, then members will be allowe to fix website. 
-
-another test 
+***
